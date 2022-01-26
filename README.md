@@ -1,4 +1,4 @@
-This is repo to display and document an include bug with pre-compiled OpenLiteSpeed binary
+This is repo to display and document an include bug with pre-compiled OpenLiteSpeed binary (sha256sum:`a4a6f59d727cc1d79a41fd40b47c29093d8e5572ac5e31c266d6863db6b80f2f  openlitespeed-1.7.14.tgz`)
 
 
 # Steps to reproduce
